@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Exploration and Discovery of the Covid-19 Literature through Semantic Visualization
 
-You can use the [editor on GitHub](https://github.com/brandeis-llc/semviz/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+##### Jingxuan Tu, Marc Verhagen, Kyeongmin Rim, Kelley Rim, Peter Anick, Nikhil Krishnaswamy, James Pustejovsky (Brandeis)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##### Contact: jamesp@brandeis.edu
+---
 
-### Markdown
+We are developing semantic visualization techniques in order to enhance  exploration and enable discovery over large datasets of complex networks of relations.  We have applied this to analysis of the recently released Covid-19 dataset. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brandeis-llc/semviz/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [emantic Visualization](http://morbius.cs-i.brandeis.edu:23762/app/kibana#/dashboard/2b613e90-7cf0-11ea-8a44-496b85e05ba5) of Harvard Protein-protein-interaction (PPI) [dataset](http://ndexbio.org/#/network/a8c0decc-6bbb-11ea-bfdc-0ac135e8bacf)
+  * This shows the 
+* [emantic Visualization](http://morbius.cs-i.brandeis.edu:23762/app/kibana#/dashboard/51bf2350-79d4-11ea-84c5-0f2dcbb991c3) of UI [Blender](http://blender.cs.illinois.edu/covid19/) Lab Covid-19 [Knowledge Graphs](http://blender.cs.illinois.edu/covid19/)
+  * This shows
+* [LAPPSGrid](http://www.lappsgrid.org/) [Covid-QA System](http://services.lappsgrid.org/eager/ask)
+  * This shows 
+ 
