@@ -10,7 +10,7 @@ We are developing semantic visualization techniques in order to enhance  explora
 
  
 
-* [Semantic Visualization](http://morbius.cs-i.brandeis.edu:23762/app/kibana#/dashboard/51bf2350-79d4-11ea-84c5-0f2dcbb991c3) of UI [Blender Lab](http://blender.cs.illinois.edu/covid19/)  Covid-19 [Knowledge Graphs](http://blender.cs.illinois.edu/covid19/)
+* [Semantic Visualization](http://morbius.cs-i.brandeis.edu:23762/app/kibana#/dashboard/51bf2350-79d4-11ea-84c5-0f2dcbb991c3) of Heng Ji's [Blender Lab](http://blender.cs.illinois.edu/covid19/)  Covid-19 [Knowledge Graphs](http://blender.cs.illinois.edu/covid19/) from University of Illinois.
   * This shows
   
 * [Semantic Visualization](http://morbius.cs-i.brandeis.edu:23762/app/kibana#/dashboard/2b613e90-7cf0-11ea-8a44-496b85e05ba5) of Harvard Protein-protein-causal-assertions (PPCA) [dataset](http://ndexbio.org/#/network/a8c0decc-6bbb-11ea-bfdc-0ac135e8bacf)
