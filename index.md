@@ -5,7 +5,7 @@
 ##### Keith Suderman, Nancy Ide (Vassar)
 
 ##### Brent Cochran (Tufts)  
-##### Contact: jamesp@brandeis.edu
+##### Contact: <MAILTO:jamesp@brandeis.edu>
 ---
 
 We are developing semantic visualization techniques in order to enhance  exploration and enable discovery over large datasets of complex networks of relations.  We have applied this to analysis of the recently released Covid-19 dataset. We  also are making an NLP Question Answering system available, the [Covid-QA System](http://services.lappsgrid.org/eager/ask), based on our [Language Application Grid](https://galaxy.lappsgrid.org/) platform within the [Galaxy](https://galaxyproject.org/) environment. 
