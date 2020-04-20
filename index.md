@@ -1,8 +1,8 @@
 # Exploration and Discovery of the Covid-19 Literature through Semantic Visualization
 
-##### Jingxuan Tu, Marc Verhagen, Kyeongmin Rim, Kelley Rim, Peter Anick, Nikhil Krishnaswamy, James Pustejovsky (Brandeis)<br/>
-Keith Suderman, Nancy Ide (Vassar)<br/>
-Brent Cochran (Tufts)<br/>
+##### Jingxuan Tu, Marc Verhagen, Kyeongmin Rim, Kelley Rim, Peter Anick, Nikhil Krishnaswamy, James Pustejovsky (Brandeis)
+##### Keith Suderman, Nancy Ide (Vassar)<br/>
+##### Brent Cochran (Tufts)
  Contact: jamesp@brandeis.edu
 ---
 
