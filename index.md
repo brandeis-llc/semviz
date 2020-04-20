@@ -1,9 +1,10 @@
 ---
-title: "Main"
+title: "SemViz"
 date: 2020-04-20T10:43:10-04:00
 sec: 1
 ---
 
+<center> Semantic Visualization of Scientific Data </center>
 
 # Exploration and Discovery of the Covid-19 Literature through Semantic Visualization
 
