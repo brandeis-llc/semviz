@@ -15,6 +15,6 @@ We are developing semantic visualization techniques in order to enhance  explora
 * [Semantic Visualization](http://morbius.cs-i.brandeis.edu:23762/app/kibana#/dashboard/51bf2350-79d4-11ea-84c5-0f2dcbb991c3) of UI [Blender](http://blender.cs.illinois.edu/covid19/) Lab Covid-19 [Knowledge Graphs](http://blender.cs.illinois.edu/covid19/)
   * This shows
 * [LAPPSGrid](http://www.lappsgrid.org/) [Covid-QA System](http://services.lappsgrid.org/eager/ask)
-  * The Language Applications (LAPPS) Grid AskMe document retrieval service provides sophisticated, customizable search capabilities over 14,000+ full text articles related to COVID-19 research. The COVID data currently include all articles from the CORD-19 dataset (https://pages.semanticscholar.org/coronavirus-research), eliminating duplicates, empty article files, etc. Searches over PubMed, PMC, bioRxiv and medRxiv will be available soon. Updates will be done weekly or when new data warrants.
+  * The Language Applications (LAPPS) Grid AskMe document retrieval service provides sophisticated, customizable search capabilities over 14,000+ full text articles related to COVID-19 research. The COVID data currently include all articles from the [CORD-19 dataset](https://pages.semanticscholar.org/coronavirus-research), eliminating duplicates, empty article files, etc. Searches over PubMed, PMC, bioRxiv and medRxiv will be available soon. Updates will be done weekly or when new data warrants.
 
  
