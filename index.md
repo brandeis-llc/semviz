@@ -38,7 +38,7 @@ We have also developed an NLP Question Answering system called the <a href="http
   * This demonstrates several visualizations over data extracted from 9,000 of the 52,000 articles in the CORD-19 dataset by multiple machine reading systems including <a href="http://agathon.sista.arizona.edu:8080/odinweb/" target="_blank">REACH</a> (University of Arizona) and Sparser (<a href="https://www.sift.net/" target="_blank">Smart Information Flow Technologies</a>). Extracted events were assembled by the Integrated Network and Dynamical Reasoning Assembler (<a href="https://indralab.github.io" target="_blank">INDRA</a>), developed at Harvard Medical School.
 
 
-* <a href="http://www.lappsgrid.org/LAPPSGrid" target="_blank">http://www.lappsgrid.org/</a> <a href="http://services.lappsgrid.org/eager/ask" target="_blank">Covid-QA System</a>
+* <a href="http://www.lappsgrid.org/" target="_blank">LAPPSGrid</a> <a href="http://services.lappsgrid.org/eager/ask" target="_blank">Covid-QA System</a>
   * The Language Applications (LAPPS) Grid AskMe document retrieval service provides sophisticated, customizable search capabilities over 14,000 full text articles related to COVID-19 research. The COVID data currently include all articles from the <a href="https://pages.semanticscholar.org/coronavirus-research" target="_blank">CORD-19 dataset</a>, eliminating duplicates, empty article files, etc. Searches over PubMed, PMC, bioRxiv and medRxiv will be available soon. Updates will be done weekly or when new data warrants.
 
  
