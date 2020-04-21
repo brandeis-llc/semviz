@@ -50,9 +50,9 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-navbar-img: "/img/bg-viz-semitransp.png"
-footer-img: "/img/bg-viz.png"
-page-img: "/img/bg-viz-opq.png"
+navbar-img: "/img/bg-viz-semi.png"
+footer-img: "/img/bg-viz-opq.png"
+page-img: "/img/bg-viz-trans.png"
 
 # --- Footer options --- #
 
