@@ -4,8 +4,6 @@ subtitle: Semantic Visualization of Scientific Data
 layout: page
 ---
 
-<center> Semantic Visualization of Scientific Data </center>
-
 # Exploration and Discovery of the Covid-19 Literature through Semantic Visualization
 
 ##### Jingxuan Tu, Marc Verhagen, Kyeongmin Rim, Kelley Lynch, Peter Anick, Nikhil Krishnaswamy, James Pustejovsky (Brandeis)
