@@ -10,7 +10,7 @@ layout: page
 ##### Jingxuan Tu, Marc Verhagen, Kyeongmin Rim, Kelley Lynch, Peter Anick, Nikhil Krishnaswamy, James Pustejovsky (Brandeis)
 ##### Keith Suderman, Nancy Ide (Vassar)
 ##### Brent Cochran (Tufts)
-###### Contact: jamesp@brandeis.edu
+###### Contact: [jamesp@brandeis.edu](jamesp@brandeis.edu)
 ---
 
 We are developing semantic visualization techniques in order to enhance  exploration and enable discovery over large datasets of complex networks of relations. <i>Semantic visualization</i> is a method of enabling exploration and
