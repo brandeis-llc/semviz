@@ -6,7 +6,19 @@ Brent Cochran (Tufts)<br />
  Contact: <a href="mailto:jamesp@brandeis.edu">jamesp@brandeis.edu</a> </h5>
 ---
 
-We are developing semantic visualization techniques in order to enhance  exploration and enable discovery over large datasets of complex networks of relations. <i>Semantic visualization</i> refers to the process of (i) indexing all terms and NLP-extracted named entities, relations, and knowledge graphs from the original data source; (ii) creating semantic wordclouds and heatmaps for  all relevant entities and relations; (iii) applying <i>parameter reduction</i> operations to relations, resulting in <i>relation containers</i> that are functional entities that can be visualized as wordclouds; and (iv) embedding relation containers as parameters in heatmaps, in order to visualize multiple relations and partial pathways of relations  within a single heatmap display. Our hope is that this will  enable the discovery of novel inferences over relations in complex data that otherwise would go unnoticed.
+We are developing semantic visualization techniques in order to enhance  exploration and enable discovery over large datasets of complex networks of relations. <i>Semantic visualization</i> is a method of enabling exploration and
+discovery over large datasets of complex networks by exploiting the
+semantics of the relations in them.  This involves (i) NLP to extract
+named entities, relations and knowledge graphs from the original data;
+(ii) indexing the output and creating representations for all relevant
+entities and relations that can be visualized in many different ways,
+e.g., as wordclouds, heat maps, graphs, etc.; (iii) applying parameter
+reduction operations to the extracted relations, creating "relation
+containers," or functional entities that can also be visualized using
+the same methods, allowing the visualization of multiple relations,
+partial pathways, and exploration across multiple dimensions.  Our
+hope is that this will enable the discovery of novel inferences over
+relations in complex data that otherwise would go unnoticed. 
 
 We have applied this to analysis of the recently released [Covid-19 dataset](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge). We have also developed an NLP Question Answering system called the [Covid-QA System](http://services.lappsgrid.org/eager/ask), based on our [Language Application Grid](https://galaxy.lappsgrid.org/) platform within the [Galaxy](https://galaxyproject.org/) environment. 
 
