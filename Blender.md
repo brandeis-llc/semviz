@@ -1,58 +1,56 @@
 ---
-title: Blender  Visualization 
-subtitle: Navigating the Dashboard 
-layout: page
+layout: post
+title: Blender Covid dataset viz Dashboard
+subtitle: Placeholder
 ---
 
-This dashboard demonstrates the visualization of the relations that were  
+This dashboard shows the semantic visualization of the relations in the CORD-19 
+dataset encoded by Ji’s group as knowledge graphs, between chemical-gene, 
+chemical-disease, and gene-disease. In addition, parameter reduction has been 
+performed on some relations, in order to illustrate heatmaps encoding relations 
+between relations. 53 fine-grained chemical-gene interaction types have been 
+identified, and the interaction types are also combined with three actions to 
+form the whole relation. 
+For better visualization we do the following mapping to the three actions:
+- Increase: ++
+- Decrease: --
+- Affect:   ->
 
 ## Description of Visualization Pins
 
-### Containers Word Cloud
+### Chemical Word Cloud
+This word cloud shows the frequency of various kinds of chemicals.
 
-This word cloud shows the frequency of various gene/protein containers extracted from PPCA dataset. 
-For example, `apoptotic process Activator` is a list of proteins that are found to be able to activate `apoptotic process`. Similarly, `EIF2S1 Phosphorylator` contains a list of proteins that are found to have phosphorylation with some other genes.
+### Gene Word Cloud
+This word cloud shows the frequency of various kinds of genes. 
 
-### Enzymes Word Cloud
-This word cloud shows the frequency of proteins that can be the enzymes in the `Modification` relation.
+### Chemical-Gene Interactions
+This heat map shows the co-occurrence of chemical and gene per type of interaction. 
+We can see several sub-heat maps and each one show one type of interaction.
+For example, if we take the first sub-heatmap and the intersection block of the first row and first column, 
+we can get `dorsomorphin` and `NOG`. It means dorsomorphin increases cotreatment of NOG.
 
-### Subjects Word Cloud
-This word cloud shows the frequency of proteins that can be the subjects in the `RegulateActivity` relation.
+### Chemical-Disease Interactions
+This heat map shows the co-occurrence of chemical and disease. 
+For example, if we take the intersection block of the first row and first column, 
+we can get `Nifedipine` and `Hypertension`. It means there is some relation between the chemical Nifedipine and the disease Hypertension.
 
-### Subject-Object Interactions 
-This heat map shows the co-occurrence of subject and object proteins. 
-For example, if we take the intersection block of the fourth row and second column, 
-we can get `DDX58` and `Interferon`. It means this pair of proteins can express one or more types of `RegulateActivity` relations.
+### Gene-Disease Interactions
+This heat map shows the co-occurrence of gene and disease. 
+For example, if we take the intersection block of the first row and first column, 
+we can get `ERBB2` and `Breast Neoplasms`. It means there is some relation between the gene ERBB2 and the disease Breast Neoplasms.
 
-### Enzyme-Substrate Interactions
-This heat map shows the co-occurrence of enzymes and substrate. 
-For example, if we take the intersection block of the second row and first column, 
-we can get `EIF2AK2` and `EIF2S1`. It means this pair of proteins can express one or more types of `Modification` relations. 
-The first row shows the frequency of `Modification` relations that have substrates only.
-
-### Subject-Object Interactions - Activation
-This one is similar to _Subject-Object Interactions_ except that the relation can only be `Activation`.
-
-### Subject-Object Interactions - Inhibition
-This one is similar to _Subject-Object Interactions_ except that the relation can only be `Inhibition`.
-
-### Container-Object Interactions
-This heat map shows the co-occurrence of protein containers and subject proteins. 
-For example, if we take the first column, it shows Interferon could be `JAK activator` and `STAT Activator`, etc.
-
-### Keyword - Journal Relations
-This heat map shows the co-occurrence of a keyword in abstract with the journal names. 
-For example, if our keyword is `Coronavirus`, we can get this keyword appears 149 times in articles published on `PLoS One`.
-
-### Authors Word Cloud
-This word cloud shows the authors of the articles that have been archived into COVID-19 dataset.
-
-### Journal Publish Time Bar Chart
-This bar chart shows the publish time of articles in each year and each month.
+### Container-Disease Interactions
+This heat map shows the relation between gene container and disease per organism. 
+There are two sub-heat maps. The one on the left shows the relations found in Home sapiens, 
+while the one on the right shows the relations found in Mus musculus.
+For example, if we take the first sub-heatmap and the intersection block of the fifth row and first column, 
+we can get `++MAPK3 Phosphorylator` and `Prostatic Neoplasms`. It means the genes that have phosphorylation on
+++MAPKS have some relation with the disease Prostatic Neoplasms. This allows us to demonstrate the "chained" relations
+through parameter reduction.
 
 ## Interactive Navigation Examples
-
-- Click `EIF2S1 Phosphorylator` on _Containers Word Cloud_ → _Enzymes Word Cloud_ will 
-tell you the members of this container → Keep adding more filters or clear for another navigation.
-- Click the intersection of `Coronavirus` and `Virology` in _Keyword - Journal Relations_ → all the other pins will be updated. We can find `David A. Brian` from _Authors Word Cloud_, `SARS-CoV Palmitoylators` from _Containers Word Cloud_, etc. that are related to coronavirus.
-
+- Click `bisphenol A` on _Chemical Word Cloud_ → all the other pins will be updated. 
+For example _Chemical-Gene Interactions_ will show us the interactions between bisphenol A and genes per type of interaction. 
+_Container-Disease Interactions_ will show us the relation between diseases and gene containers that have a member called bisphenol A → 
+Keep adding more filters or clear for another navigation.
