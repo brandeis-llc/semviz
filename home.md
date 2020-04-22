@@ -1,7 +1,7 @@
 
 # Exploration and Discovery of the Covid-19 Literature through Semantic Visualization
 
-##### Jingxuan Tu, Marc Verhagen, Kyeongmin Rim, Kelley Lynch, Peter Anick, Nikhil Krishnaswamy, James Pustejovsky (Brandeis)
+##### Jingxuan Tu, Marc Verhagen, Kyeongmin Rim, Kelley Lynch, Peter Anick, Nikhil Krishnaswamy, James Pustejovsky ([Brandeis](https://www.brandeis.edu/computer-science/))
 ##### Keith Suderman, Nancy Ide (Vassar)
 ##### Brent Cochran (Tufts)
 ###### Contact: [jamesp@brandeis.edu](mailto:jamesp@brandeis.edu)
@@ -40,5 +40,7 @@ We have also developed an NLP Question Answering system called the [Covid-QA Sys
  
 This research is supported in part by grants from: DARPA grant
  FA8750-18-2-0016; DARPA grant W911NF-15-C-0238; DTRA grant
- DTRA-16-1-0002; NSF grant 1811402; and  Andrew W. Mellon  Foundation grants G-1901-06505 and G-1810-06248. 
+ DTRA-16-1-0002; NSF grant 1811402; and  Andrew W. Mellon  Foundation grants G-1901-06505 and G-1810-06248.
+ 
+ <div style="text-align:center"><a href="https://www.brandeis.edu"><img src="{{ 'img/brandeis-logo-stacked-seal-blue-digital.png' | relative_url }}" width="240"/></a></div>
  
