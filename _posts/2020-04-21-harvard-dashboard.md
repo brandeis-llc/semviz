@@ -45,7 +45,7 @@ This one is similar to _Subject-Object Interactions_ except that the relation ca
 This heat map shows the co-occurrence of protein containers and subject proteins. 
 For example, if we take the first column, it shows Interferon could be `JAK activator` and `STAT Activator`, etc.
 
-### Keyword - Journal Relations
+### Keyword-Journal Relations
 This heat map shows the co-occurrence of a keyword in abstract with the journal names. 
 For example, if our keyword is `Coronavirus`, we can get this keyword appears 149 times in articles published on `PLoS One`.
 
