@@ -42,7 +42,7 @@ We have also developed an NLP Question Answering system called the [Covid-QA Sys
 * [LAPPSGrid](http://www.lappsgrid.org/){:target="_blank"} [Covid-QA System](http://services.lappsgrid.org/eager/ask){:target="_blank"}
   * The Language Applications (LAPPS) Grid AskMe document retrieval service provides sophisticated, customizable search capabilities over 14,000 full text articles related to COVID-19 research. The data currently include all articles from the [CORD-19 dataset](https://pages.semanticscholar.org/coronavirus-research){:target="_blank"}, eliminating duplicates, empty article files, etc. Searches over PubMed, PMC, bioRxiv and medRxiv will be available soon. Updates will be done weekly or when new data warrants.
 
-### ***
+## <hr /> 
  
 This research is supported in part by grants from: DARPA grant
  FA8750-18-2-0016; DARPA grant W911NF-15-C-0238; DTRA grant
