@@ -1,6 +1,6 @@
 ---
-title: Harvard PPI dataset viz Dashboard
-subtitle: Placeholder
+title: Harvard PPI Visualization 
+subtitle: Navigating the Dashboard 
 layout: page
 ---
 
