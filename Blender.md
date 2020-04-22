@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blender Covid dataset viz Dashboard
-subtitle: Placeholder
+title: Blender Covid dataset  
+subtitle: Dashboard Navigation
 ---
 
 This dashboard shows the semantic visualization of the relations in the CORD-19 
