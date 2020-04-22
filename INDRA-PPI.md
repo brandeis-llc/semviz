@@ -1,6 +1,7 @@
-
+---
 title: Harvard PPI dataset viz Dashboard
 subtitle: Placeholder
+layout: page
 ---
 
 This dashboard demonstrates the visualization of the events that were assembled 
