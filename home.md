@@ -1,8 +1,3 @@
----
-title: "SemViz"
-subtitle: Semantic Visualization of Scientific Data
-layout: page
----
 
 # Exploration and Discovery of the Covid-19 Literature through Semantic Visualization
 

@@ -21,7 +21,6 @@ description: Semantic Visualization of Scientific Data
 # List of links in the navigation bar
 navbar-links:
   HOME: "/"
-  UPDATES: "posts"
   LAB: "https://brandeis-llc.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -167,7 +166,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
-paginate_path: /posts/page:num/
+paginate_path: /page:num/
 
 kramdown:
   input: GFM
