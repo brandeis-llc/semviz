@@ -45,8 +45,8 @@ We have also developed an NLP Question Answering system called the [Covid-QA Sys
  
 This research is supported in part by grants from: DARPA grant
  FA8750-18-2-0016; DARPA grant W911NF-15-C-0238; DTRA grant
- DTRA -16-1-0002/Project # 1553695; NSF-EAGER grant 1811402; 
-and the Andrew W. Mellon  Foundation grants G-1901-06505 and G-1810-06248. 
+ DTRA -16-1-0002; NSF grant 1811402; 
+and  Andrew W. Mellon  Foundation grants G-1901-06505 and G-1810-06248. 
  
 {
   "firstName": "John",
