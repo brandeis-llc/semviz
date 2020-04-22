@@ -1,9 +1,12 @@
 ---
+title: "SemViz"
+subtitle: Semantic Visualization of Scientific Data
 layout: page
-title: What's New 
-subtitle: Recent updates from the SemViz team
 use-site-title: true
 ---
+
+{% capture home_md %}{% include_relative home.md %}{% endcapture %}
+{{ home_md | markdownify }}
 
 <div class="posts-list">
   {% for post in paginator.posts %}
