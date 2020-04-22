@@ -20,7 +20,7 @@ the same methods, allowing the visualization of multiple relations,
 partial pathways, and exploration across multiple dimensions.  Our
 hope is that this will enable the discovery of novel inferences over
 relations in complex data that otherwise would go unnoticed. 
-We have applied this to analysis of the recently released [CORD-19 dataset](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge){:target="_blank"}. 
+We have applied this to analysis of the recently released [CORD-19 dataset](https://pages.semanticscholar.org/coronavirus-research){:target="_blank"}. 
 
 We have also developed an NLP Question Answering system called the [Covid-QA System](http://services.lappsgrid.org/eager/ask){:target="_blank"}, based on our [Language Application Grid](https://galaxy.lappsgrid.org/){:target="_blank"} platform within the [Galaxy](https://galaxyproject.org/){:target="_blank"}. 
 
