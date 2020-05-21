@@ -3,12 +3,10 @@ layout: post
 title:   Provenance and Links to Articles for Blender Dataset
 subtitle: Provenance and Links to Articles for Blender Knowledge Graph Dataset 
 ---
-We have enhanced the information associated with visualization for the INDRA protein interaction dataset. Now there are
-direct links to the documents associated with relations, as well as new wordclouds for related concepts in the sentence from which the protein-protein relation was identified. These can be found in the new 
-[Harvard SemViz dashboard](http://morbius.cs-i.brandeis.edu:23762/goto/7ae32959c9cfbc0c1ef2d4dffcf0f82b).
+We have added provenance links to the results from word cloud and heatmap searches. We have also added the evidencing sentence from which the relation was extracted.  These can be found in the new 
+[Harvard Blender dashboard](http://morbius.cs-i.brandeis.edu:23762/app/kibana#/dashboard/51bf2350-79d4-11ea-84c5-0f2dcbb991c3).
 
-
-Also, the LAPPS Grid [Covid-QA System](http://services.lappsgrid.org/eager/ask) has just been updated to include access to 68,850 documents from the May 1, 2020 CORD-19 dataset.
+ 
 
 -James Pustejovsky
 
