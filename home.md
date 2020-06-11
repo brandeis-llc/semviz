@@ -38,9 +38,9 @@ We have also developed an NLP Question Answering system called the [Covid-QA Sys
 
 ---
  
-This research is supported in part by grants from: DARPA grant
- FA8750-18-2-0016; DARPA grant W911NF-15-C-0238; DTRA grant
- DTRA-16-1-0002; NSF EAGER grant 1811402; and  [Andrew W. Mellon  Foundation](https://mellon.org/) grants G-1901-06505 (with University of T&uuml;bingen and Charles University) and G-1810-06248 (with [WGBH Media Library and Archive](https://americanarchive.org)).
+This research is supported in part by grants from: [DARPA](https://www.darpa.mil/) grant
+ FA8750-18-2-0016; [DARPA](https://www.darpa.mil/) grant W911NF-15-C-0238; DTRA grant
+ DTRA-16-1-0002; [NSF](https://nsf.gov/) EAGER grant 1811402; and  [Andrew W. Mellon  Foundation](https://mellon.org/) grants G-1901-06505 (with University of T&uuml;bingen and Charles University) and G-1810-06248 (with [WGBH Media Library and Archive](https://americanarchive.org)).
  
 
 <div style="text-align:center"><a href="https://www.brandeis.edu"><img src="{{ 'img/brandeis-logo-stacked-seal-blue-digital.png' | relative_url }}" width="240"/></a></div>
