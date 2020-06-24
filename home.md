@@ -24,7 +24,8 @@ We have applied this to analysis of the recently released [CORD-19 dataset](http
 
 We have also developed an NLP Question Answering system called the [Covid-QA System](http://services.lappsgrid.org/eager/ask){:target="_blank"}, based on our [Language Application Grid](https://galaxy.lappsgrid.org/){:target="_blank"} platform within the [Galaxy](https://galaxyproject.org/){:target="_blank"}. 
 
- 
+Check out the [SemViz tutorial](URL) on how to navigate the INDRA protein-protein dataset, prepared by Prof. Brent Cochran of Tufts University. 
+
 * **If you're asked to log-in to view visualization dashboards linked below**, use username `semvizuser` and password `semviz` (all lower case). 
 
 * [Semantic Visualization](http://morbius.cs-i.brandeis.edu:23762/app/kibana#/dashboard/51bf2350-79d4-11ea-84c5-0f2dcbb991c3){:target="_blank"} of Heng Ji's [Blender Lab](http://blender.cs.illinois.edu/covid19/){:target="_blank"} Covid-19 [Knowledge Graphs](http://blender.cs.illinois.edu/covid19/){:target="_blank"} from University of Illinois.
