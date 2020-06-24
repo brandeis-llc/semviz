@@ -22,7 +22,7 @@ hope is that this will enable the discovery of novel inferences over
 relations in complex data that otherwise would go unnoticed. 
 We have applied this to analysis of the recently released [CORD-19 dataset](https://pages.semanticscholar.org/coronavirus-research){:target="_blank"}. 
 
-<h4>Check out the [SemViz tutorial](http://www.voxicon.net/wp-content/uploads/2020/06/semviz.mp4) on how to navigate the INDRA protein-protein dataset, prepared by Prof. [Brent Cochran](https://www.cochranlab.org) of Tufts University.</h4>
+#### Check out the [SemViz tutorial](http://www.voxicon.net/wp-content/uploads/2020/06/semviz.mp4) on how to navigate the INDRA protein-protein dataset, prepared by Prof. [Brent Cochran](https://www.cochranlab.org) of Tufts University.</h4>
 
 We have also developed an NLP Question Answering system called the [Covid-QA System](http://services.lappsgrid.org/eager/ask){:target="_blank"}, based on our [Language Application Grid](https://galaxy.lappsgrid.org/){:target="_blank"} platform within the [Galaxy](https://galaxyproject.org/){:target="_blank"}. 
 
