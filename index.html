@@ -4,7 +4,21 @@ subtitle: Semantic Visualization of Scientific Data
 layout: page
 use-site-title: true
 ---
-
+<div style="text-align: center;">
+<h3 id="update-alert" class="header-section">
+  </h3>
+</div>
 {% capture home_md %}{% include_relative home.md %}{% endcapture %}
 {{ home_md | markdownify }}
+  <script>
+    $.get("/updates", function(response) {
+
+      let re = new RegExp('href="\/(202.+)\/">\n.+>([^<]+)<\/h2>'); 
+      let match = re.exec(response);
+      let topic = match[2];
+      let lastdate = match[1].replace(/(\d{4})-(\d{2})-(\d{2})-.+/, "$2\/$3\/$1");
+      let newmsg = `<a href=\"/updates\"> Check out our latest update about \"${topic}\" from ${lastdate}. </a>`;
+      $('#update-alert').html(newmsg);
+    });
+  </script>
 
